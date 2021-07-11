@@ -1,189 +1,189 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="dco.us" tvg-chno="1" tvg-logo="https://i.imgur.com/LrchFPl.png",STIRR National
+#EXTINF:-1 tvg-id="dco.us" tvg-chno="1" tvg-logo="https://i.imgur.com/LrchFPl.png" group-title="STIRR",STIRR National
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
-#EXTINF:-1 tvg-id="newsy.us" tvg-chno="6" tvg-logo="https://i.imgur.com/5oatwZc.png",Newsy
+#EXTINF:-1 tvg-id="newsy.us" tvg-chno="6" tvg-logo="https://i.imgur.com/5oatwZc.png" group-title="STIRR",Newsy
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
-#EXTINF:-1 tvg-id="thefirst.us" tvg-chno="7" tvg-logo="https://i.imgur.com/kUD8kHX.png",The First
+#EXTINF:-1 tvg-id="thefirst.us" tvg-chno="7" tvg-logo="https://i.imgur.com/kUD8kHX.png" group-title="STIRR",The First
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
-#EXTINF:-1 tvg-id="news-247.us" tvg-chno="2" tvg-logo="https://i.imgur.com/INwBL3j.png",News 24/7
+#EXTINF:-1 tvg-id="news-247.us" tvg-chno="2" tvg-logo="https://i.imgur.com/INwBL3j.png" group-title="STIRR",News 24/7
 https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
-#EXTINF:-1 tvg-id="quicktake.us" tvg-chno="9" tvg-logo="https://i.imgur.com/YjkbaWW.png",Quicktake
+#EXTINF:-1 tvg-id="quicktake.us" tvg-chno="9" tvg-logo="https://i.imgur.com/YjkbaWW.png" group-title="STIRR",Quicktake
 https://dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8
-#EXTINF:-1 tvg-id="bloomberg.us" tvg-chno="5" tvg-logo="https://i.imgur.com/g8dz3vv.png",Bloomberg TV
+#EXTINF:-1 tvg-id="bloomberg.us" tvg-chno="5" tvg-logo="https://i.imgur.com/g8dz3vv.png" group-title="STIRR",Bloomberg TV
 https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
-#EXTINF:-1 tvg-id="lawcrime.us" tvg-chno="10" tvg-logo="https://i.imgur.com/W6wuOsG.png",Law & Crime 
+#EXTINF:-1 tvg-id="lawcrime.us" tvg-chno="10" tvg-logo="https://i.imgur.com/W6wuOsG.png" group-title="STIRR",Law & Crime 
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-#EXTINF:-1 tvg-id="cheddarnews.us" tvg-chno="11" tvg-logo="https://i.imgur.com/xIKUzFp.png",Cheddar News
+#EXTINF:-1 tvg-id="cheddarnews.us" tvg-chno="11" tvg-logo="https://i.imgur.com/xIKUzFp.png" group-title="STIRR",Cheddar News
 https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
-#EXTINF:-1 tvg-id="stirrtvmix.us" tvg-chno="50" tvg-logo="https://i.imgur.com/ybSc8GL.png",STIRR TV Mix
+#EXTINF:-1 tvg-id="stirrtvmix.us" tvg-chno="50" tvg-logo="https://i.imgur.com/ybSc8GL.png" group-title="STIRR",STIRR TV Mix
 https://dai.google.com/linear/hls/event/ZP8ZMv95Q0Gm9EiyYOGHAA/master.m3u8
-#EXTINF:-1 tvg-id="dealornodeal.us" tvg-chno="53" tvg-logo="https://i.imgur.com/RBylksp.png",Deal or No Deal
+#EXTINF:-1 tvg-id="dealornodeal.us" tvg-chno="53" tvg-logo="https://i.imgur.com/RBylksp.png" group-title="STIRR",Deal or No Deal
 https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
-#EXTINF:-1 tvg-id="wipeout.us" tvg-chno="54" tvg-logo="https://i.imgur.com/YrC27I9.png",Wipeout Xtra
+#EXTINF:-1 tvg-id="wipeout.us" tvg-chno="54" tvg-logo="https://i.imgur.com/YrC27I9.png" group-title="STIRR",Wipeout Xtra
 https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
-#EXTINF:-1 tvg-id="buzzr.us" tvg-chno="55" tvg-logo="https://i.imgur.com/N0NhvT0.png",Buzzr
+#EXTINF:-1 tvg-id="buzzr.us" tvg-chno="55" tvg-logo="https://i.imgur.com/N0NhvT0.png" group-title="STIRR",Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
-#EXTINF:-1 tvg-id="americanclassics.us" tvg-chno="57" tvg-logo="https://i.imgur.com/haJ7Xew.png",American Classics
+#EXTINF:-1 tvg-id="americanclassics.us" tvg-chno="57" tvg-logo="https://i.imgur.com/haJ7Xew.png" group-title="STIRR",American Classics
 https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
-#EXTINF:-1 tvg-id="dove.us" tvg-chno="56" tvg-logo="https://i.imgur.com/V0u3mgI.png",Dove
+#EXTINF:-1 tvg-id="dove.us" tvg-chno="56" tvg-logo="https://i.imgur.com/V0u3mgI.png" group-title="STIRR",Dove
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 tvg-id="filmrise-classic-tv.us" tvg-chno="58" tvg-logo="https://i.imgur.com/RFIUEmb.png",Filmrise Classic TV
+#EXTINF:-1 tvg-id="filmrise-classic-tv.us" tvg-chno="58" tvg-logo="https://i.imgur.com/RFIUEmb.png" group-title="STIRR",Filmrise Classic TV
 https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
-#EXTINF:-1 tvg-id="shoutfactory.us" tvg-chno="59" tvg-logo="https://i.imgur.com/zDJVpmH.png",Shout Factory TV
+#EXTINF:-1 tvg-id="shoutfactory.us" tvg-chno="59" tvg-logo="https://i.imgur.com/zDJVpmH.png" group-title="STIRR",Shout Factory TV
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
-#EXTINF:-1 tvg-id="contv.us" tvg-chno="60" tvg-logo="https://i.imgur.com/46ac5th.png",CONtv
+#EXTINF:-1 tvg-id="contv.us" tvg-chno="60" tvg-logo="https://i.imgur.com/46ac5th.png" group-title="STIRR",CONtv
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
-#EXTINF:-1 tvg-id="comedydynamics.us tvg-chno="75" tvg-logo="https://i.imgur.com/nheBtwo.png",Comedy Dynamics
+#EXTINF:-1 tvg-id="comedydynamics.us tvg-chno="75" tvg-logo="https://i.imgur.com/nheBtwo.png" group-title="STIRR",Comedy Dynamics
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
-#EXTINF:-1 tvg-id="retrocrush.us" tvg-chno="61" tvg-logo="https://i.imgur.com/EUedL8j.png",RetroCrush
+#EXTINF:-1 tvg-id="retrocrush.us" tvg-chno="61" tvg-logo="https://i.imgur.com/EUedL8j.png" group-title="STIRR",RetroCrush
 https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
-#EXTINF:-1 tvg-id="avffamily.us" tvg-chno="65" tvg-logo="https://i.imgur.com/77IBoQi.png",AFV Family
+#EXTINF:-1 tvg-id="avffamily.us" tvg-chno="65" tvg-logo="https://i.imgur.com/77IBoQi.png" group-title="STIRR",AFV Family
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-#EXTINF:-1 tvg-id="peopletv.us" tvg-chno="80" tvg-logo="https://i.imgur.com/3wpzACG.png",People TV
+#EXTINF:-1 tvg-id="peopletv.us" tvg-chno="80" tvg-logo="https://i.imgur.com/3wpzACG.png" group-title="STIRR",People TV
 https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
-#EXTINF:-1 tvg-id="revry.us" tvg-chno="84" tvg-logo="https://i.imgur.com/PBKFxRR.png",Revry
+#EXTINF:-1 tvg-id="revry.us" tvg-chno="84" tvg-logo="https://i.imgur.com/PBKFxRR.png" group-title="STIRR",Revry
 https://linear-5.frequency.stream/dist/stirr/5/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="electricnow.us" tvg-chno="99" tvg-logo="https://i.imgur.com/RAm51CY.png",Electric Now
+#EXTINF:-1 tvg-id="electricnow.us" tvg-chno="99" tvg-logo="https://i.imgur.com/RAm51CY.png" group-title="STIRR",Electric Now
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
-#EXTINF:-1 tvg-id="popstartv.us" tvg-chno="86" tvg-logo="https://i.imgur.com/wu5yyV5.png",Popstar! TV
+#EXTINF:-1 tvg-id="popstartv.us" tvg-chno="86" tvg-logo="https://i.imgur.com/wu5yyV5.png" group-title="STIRR",Popstar! TV
 https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
-#EXTINF:-1 tvg-id="charge.us" tvg-chno="98" tvg-logo="https://i.imgur.com/6UpMEN1.png",CHARGE 
+#EXTINF:-1 tvg-id="charge.us" tvg-chno="98" tvg-logo="https://i.imgur.com/6UpMEN1.png" group-title="STIRR",CHARGE 
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
-#EXTINF:-1 tvg-id="dust.us" tvg-chno="102" tvg-logo="https://i.imgur.com/ZsMYyaS.png",Dust
+#EXTINF:-1 tvg-id="dust.us" tvg-chno="102" tvg-logo="https://i.imgur.com/ZsMYyaS.png" group-title="STIRR",Dust
 https://dust-stirr.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="comet.us" tvg-chno="101" tvg-logo="https://i.imgur.com/27D8JVS.png",COMET
+#EXTINF:-1 tvg-id="comet.us" tvg-chno="101" tvg-logo="https://i.imgur.com/27D8JVS.png" group-title="STIRR",COMET
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-#EXTINF:-1 tvg-id="space-1999.us" tvg-chno="148" tvg-logo="https://i.imgur.com/gs5FgVU.png",Space 1999
+#EXTINF:-1 tvg-id="space-1999.us" tvg-chno="148" tvg-logo="https://i.imgur.com/gs5FgVU.png" group-title="STIRR",Space 1999
 https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
-#EXTINF:-1 tvg-id="mst3000.us" tvg-chno="149" tvg-logo="https://i.imgur.com/Yz0u8Hv.png",Mystery Science Theater 3000
+#EXTINF:-1 tvg-id="mst3000.us" tvg-chno="149" tvg-logo="https://i.imgur.com/Yz0u8Hv.png" group-title="STIRR",Mystery Science Theater 3000
 https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
-#EXTINF:-1 tvg-id="johnnycarsontv.us" tvg-chno="173" tvg-logo="https://i.imgur.com/Pl89hFg.png",Johnny Carson TV
+#EXTINF:-1 tvg-id="johnnycarsontv.us" tvg-chno="173" tvg-logo="https://i.imgur.com/Pl89hFg.png" group-title="STIRR",Johnny Carson TV
 https://dai.google.com/linear/hls/event/VY5rb91ASh26jkj60tkeNQ/master.m3u8
-#EXTINF:-1 tvg-id="bobross.us" tvg-chno="196" tvg-logo="https://i.imgur.com/nVK2zUt.png",The Bob Ross Channel
+#EXTINF:-1 tvg-id="bobross.us" tvg-chno="196" tvg-logo="https://i.imgur.com/nVK2zUt.png" group-title="STIRR",The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
-#EXTINF:-1 tvg-id="stirr-movies.us" tvg-chno="200" tvg-logo="https://i.imgur.com/7Zuomax.png",STIRR Movies
+#EXTINF:-1 tvg-id="stirr-movies.us" tvg-chno="200" tvg-logo="https://i.imgur.com/7Zuomax.png" group-title="STIRR",STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1 tvg-id="stirr-horror.us" tvg-chno="204" tvg-logo="https://i.imgur.com/xeLXRr6.png",STIRR Horror Movies
+#EXTINF:-1 tvg-id="stirr-horror.us" tvg-chno="204" tvg-logo="https://i.imgur.com/xeLXRr6.png" group-title="STIRR",STIRR Horror Movies
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
-#EXTINF:-1 tvg-id="cinelife.us" tvg-chno="219" tvg-logo="https://i.imgur.com/XgIjirw.png",CineLife
+#EXTINF:-1 tvg-id="cinelife.us" tvg-chno="219" tvg-logo="https://i.imgur.com/XgIjirw.png" group-title="STIRR",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
-#EXTINF:-1 tvg-id="filmrise-free-movies.us" tvg-chno="220" tvg-logo="https://i.imgur.com/5Kf4rNX.png",Filmrise Free Movies
+#EXTINF:-1 tvg-id="filmrise-free-movies.us" tvg-chno="220" tvg-logo="https://i.imgur.com/5Kf4rNX.png" group-title="STIRR",Filmrise Free Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
-#EXTINF:-1 tvg-id="gravitas.us" tvg-chno="221" tvg-logo="https://i.imgur.com/6p0jDWY.png",Gravitas Movies
+#EXTINF:-1 tvg-id="gravitas.us" tvg-chno="221" tvg-logo="https://i.imgur.com/6p0jDWY.png" group-title="STIRR",Gravitas Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-#EXTINF:-1 tvg-id="stirr-westerns.us" tvg-chno="205" tvg-logo="https://i.imgur.com/ZRZw2vZ.png",STIRR Westerns
+#EXTINF:-1 tvg-id="stirr-westerns.us" tvg-chno="205" tvg-logo="https://i.imgur.com/ZRZw2vZ.png" group-title="STIRR",STIRR Westerns
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
-#EXTINF:-1 tvg-id="movie-mix.us" tvg-chno="222" tvg-logo="https://i.imgur.com/mlvifN0.png",Movie Mix
+#EXTINF:-1 tvg-id="movie-mix.us" tvg-chno="222" tvg-logo="https://i.imgur.com/mlvifN0.png" group-title="STIRR",Movie Mix
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1 tvg-id="midnight-pulp.us" tvg-chno="226" tvg-logo="https://i.imgur.com/sWMM1Df.png",Midnight Pulp
+#EXTINF:-1 tvg-id="midnight-pulp.us" tvg-chno="226" tvg-logo="https://i.imgur.com/sWMM1Df.png" group-title="STIRR",Midnight Pulp
 https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
-#EXTINF:-1 tvg-id="cinehouse.us" tvg-chno="227" tvg-logo="https://i.imgur.com/wlbsAlE.png",Cinehouse
+#EXTINF:-1 tvg-id="cinehouse.us" tvg-chno="227" tvg-logo="https://i.imgur.com/wlbsAlE.png" group-title="STIRR",Cinehouse
 https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
-#EXTINF:-1 tvg-id="theasylum.us" tvg-chno="225" tvg-logo="https://i.imgur.com/UaPnXVP.png",The Asylum
+#EXTINF:-1 tvg-id="theasylum.us" tvg-chno="225" tvg-logo="https://i.imgur.com/UaPnXVP.png" group-title="STIRR",The Asylum
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
-#EXTINF:-1 tvg-id="film-detective.us" tvg-chno="229" tvg-logo="https://i.imgur.com/RH9lpZe.png",Film Detective
+#EXTINF:-1 tvg-id="film-detective.us" tvg-chno="229" tvg-logo="https://i.imgur.com/RH9lpZe.png" group-title="STIRR",Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1 tvg-id="docurama.us" tvg-chno="231" tvg-logo="https://i.imgur.com/eUjRLYD.png",Docurama
+#EXTINF:-1 tvg-id="docurama.us" tvg-chno="231" tvg-logo="https://i.imgur.com/eUjRLYD.png" group-title="STIRR",Docurama
 https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
-#EXTINF:-1 tvg-id="magellan-tv.us" tvg-chno="232" tvg-logo="https://i.imgur.com/xMyotZ2.png",MagellanTV
+#EXTINF:-1 tvg-id="magellan-tv.us" tvg-chno="232" tvg-logo="https://i.imgur.com/xMyotZ2.png" group-title="STIRR",MagellanTV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-#EXTINF:-1 tvg-id="america-vs-addiction.us" tvg-chno="245" tvg-logo="https://i.imgur.com/UIaeK7J.png",America vs. Addiction
+#EXTINF:-1 tvg-id="america-vs-addiction.us" tvg-chno="245" tvg-logo="https://i.imgur.com/UIaeK7J.png" group-title="STIRR",America vs. Addiction
 https://dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8
-#EXTINF:-1 tvg-id="hsn.us" tvg-chno="252" tvg-logo="https://i.imgur.com/NeS9vyr.png",HSN
+#EXTINF:-1 tvg-id="hsn.us" tvg-chno="252" tvg-logo="https://i.imgur.com/NeS9vyr.png" group-title="STIRR",HSN
 https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8
-#EXTINF:-1 tvg-id="horse-shopping-channel.us" tvg-chno="251" tvg-logo="https://i.imgur.com/7DeAaTw.png",Horse Shopping Channel
+#EXTINF:-1 tvg-id="horse-shopping-channel.us" tvg-chno="251" tvg-logo="https://i.imgur.com/7DeAaTw.png" group-title="STIRR",Horse Shopping Channel
 https://playoutengine.sinclairstoryline.com/playout/c16448cc-ef21-44a5-a5b4-192f943b2dbb.m3u8
-#EXTINF:-1 tvg-id="qvc.us" tvg-chno="253" tvg-logo="https://i.imgur.com/PzZQX4y.png",QVC
+#EXTINF:-1 tvg-id="qvc.us" tvg-chno="253" tvg-logo="https://i.imgur.com/PzZQX4y.png" group-title="STIRR",QVC
 https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8
-#EXTINF:-1 tvg-id="biglife.us" tvg-chno="255" tvg-logo="https://i.imgur.com/J6iyZOs.png",Big Life 
+#EXTINF:-1 tvg-id="biglife.us" tvg-chno="255" tvg-logo="https://i.imgur.com/J6iyZOs.png" group-title="STIRR",Big Life 
 https://dai.google.com/linear/hls/event/qnfB93O0RVGrVBYwNjk8Zw/master.m3u8
-#EXTINF:-1 tvg-id="gusto-tv.us" tvg-chno="271" tvg-logo="https://i.imgur.com/vv2YD9U.png",Gusto TV
+#EXTINF:-1 tvg-id="gusto-tv.us" tvg-chno="271" tvg-logo="https://i.imgur.com/vv2YD9U.png" group-title="STIRR",Gusto TV
 https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
-#EXTINF:-1 tvg-id="glewed-tv.us" tvg-chno="256" tvg-logo="https://i.imgur.com/fsYyK6G.png",Glewed TV
+#EXTINF:-1 tvg-id="glewed-tv.us" tvg-chno="256" tvg-logo="https://i.imgur.com/fsYyK6G.png" group-title="STIRR",Glewed TV
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
-#EXTINF:-1 tvg-id="truly.us" tvg-chno="280" tvg-logo="https://i.imgur.com/DaQJIp3.png",Truly
+#EXTINF:-1 tvg-id="truly.us" tvg-chno="280" tvg-logo="https://i.imgur.com/DaQJIp3.png" group-title="STIRR",Truly
 https://dai.google.com/linear/hls/event/Xu-I6qGiSTKeu6glzS4BtQ/master.m3u8
-#EXTINF:-1 tvg-id="insight-tv.us" tvg-chno="281" tvg-logo="https://i.imgur.com/3toLnQS.png",Insight TV
+#EXTINF:-1 tvg-id="insight-tv.us" tvg-chno="281" tvg-logo="https://i.imgur.com/3toLnQS.png" group-title="STIRR",Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1 tvg-id="evrgrn.us" tvg-chno="284" tvg-logo="https://i.imgur.com/OGynODP.png",Evrgrn 
+#EXTINF:-1 tvg-id="evrgrn.us" tvg-chno="284" tvg-logo="https://i.imgur.com/OGynODP.png" group-title="STIRR",Evrgrn 
 https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
-#EXTINF:-1 tvg-id="bspoke-tv.us" tvg-chno="285" tvg-logo="https://i.imgur.com/zKK6QiD.png",BspokeTV
+#EXTINF:-1 tvg-id="bspoke-tv.us" tvg-chno="285" tvg-logo="https://i.imgur.com/zKK6QiD.png" group-title="STIRR",BspokeTV
 https://dai.google.com/linear/hls/event/f3uG6WJHTFi7wnsaH59Stg/master.m3u8
-#EXTINF:-1 tvg-id="madein-hollywood.us" tvg-chno="290" tvg-logo="https://i.imgur.com/tviBDF0.png",Made In Hollywood
+#EXTINF:-1 tvg-id="madein-hollywood.us" tvg-chno="290" tvg-logo="https://i.imgur.com/tviBDF0.png" group-title="STIRR",Made In Hollywood
 https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
-#EXTINF:-1 tvg-id="tbd.us" tvg-chno="300" tvg-logo="https://i.imgur.com/yYIzaDT.png",TBD
+#EXTINF:-1 tvg-id="tbd.us" tvg-chno="300" tvg-logo="https://i.imgur.com/yYIzaDT.png" group-title="STIRR",TBD
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
-#EXTINF:-1 tvg-id="soreal.us" tvg-chno="287" tvg-logo="https://i.imgur.com/ndZ855U.png",So...Real
+#EXTINF:-1 tvg-id="soreal.us" tvg-chno="287" tvg-logo="https://i.imgur.com/ndZ855U.png" group-title="STIRR",So...Real
 https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
-#EXTINF:-1 tvg-id="the-pet-collective.us" tvg-chno="301" tvg-logo="https://i.imgur.com/NolsHNf.png",The Pet Collective
+#EXTINF:-1 tvg-id="the-pet-collective.us" tvg-chno="301" tvg-logo="https://i.imgur.com/NolsHNf.png" group-title="STIRR",The Pet Collective
 https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
-#EXTINF:-1 tvg-id="fail-army.us" tvg-chno="302" tvg-logo="https://i.imgur.com/aBNSR56.png",FailArmy
+#EXTINF:-1 tvg-id="fail-army.us" tvg-chno="302" tvg-logo="https://i.imgur.com/aBNSR56.png" group-title="STIRR",FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 tvg-id="weatherspy.us" tvg-chno="304" tvg-logo="https://i.imgur.com/Vp2sgXN.png",WeatherSpy
+#EXTINF:-1 tvg-id="weatherspy.us" tvg-chno="304" tvg-logo="https://i.imgur.com/Vp2sgXN.png" group-title="STIRR",WeatherSpy
 https://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
-#EXTINF:-1 tvg-id="people-are-awesome.us" tvg-chno="303" tvg-logo="https://i.imgur.com/bnzj7EY.png",People Are Awesome
+#EXTINF:-1 tvg-id="people-are-awesome.us" tvg-chno="303" tvg-logo="https://i.imgur.com/bnzj7EY.png" group-title="STIRR",People Are Awesome
 https://dai.google.com/linear/hls/event/n2b4-fFMTTKRWqvx_dxhsw/master.m3u8
-#EXTINF:-1 tvg-id="stadium" tvg-chno="351" tvg-logo="https://i.imgur.com/XxHECKQ.png",Stadium 
+#EXTINF:-1 tvg-id="stadium" tvg-chno="351" tvg-logo="https://i.imgur.com/XxHECKQ.png" group-title="STIRR",Stadium 
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-#EXTINF:-1 tvg-id="free-07-26-2018" tvg-chno="352" tvg-logo="https://i.imgur.com/ingF6YO.png",The T
+#EXTINF:-1 tvg-id="free-07-26-2018" tvg-chno="352" tvg-logo="https://i.imgur.com/ingF6YO.png" group-title="STIRR",The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-#EXTINF:-1 tvg-id=sportsgrid.us" tvg-chno="353" tvg-logo="https://i.imgur.com/4oQZL7M.png",SportsGrid
+#EXTINF:-1 tvg-id=sportsgrid.us" tvg-chno="353" tvg-logo="https://i.imgur.com/4oQZL7M.png" group-title="STIRR",SportsGrid
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 tvg-id=accdn.us" tvg-chno="354" tvg-logo="https://i.imgur.com/c0JSkUX.png",ACCDN
+#EXTINF:-1 tvg-id=accdn.us" tvg-chno="354" tvg-logo="https://i.imgur.com/c0JSkUX.png" group-title="STIRR",ACCDN
 https://dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8
-#EXTINF:-1 tvg-id="world-poker-tour.us" tvg-chno="355" tvg-logo="https://i.imgur.com/19cA9DK.png",World Poker Tour
+#EXTINF:-1 tvg-id="world-poker-tour.us" tvg-chno="355" tvg-logo="https://i.imgur.com/19cA9DK.png" group-title="STIRR",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
-#EXTINF:-1 tvg-id="ring-of-honor.us" tvg-chno="357" tvg-logo="https://i.imgur.com/bnVeIlm.png",Ring of Honor
+#EXTINF:-1 tvg-id="ring-of-honor.us" tvg-chno="357" tvg-logo="https://i.imgur.com/bnVeIlm.png" group-title="STIRR",Ring of Honor
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
-#EXTINF:-1 tvg-id="whistletv.us" tvg-chno="362" tvg-logo="https://i.imgur.com/A6h7CTp.png",Whistle TV
+#EXTINF:-1 tvg-id="whistletv.us" tvg-chno="362" tvg-logo="https://i.imgur.com/A6h7CTp.png" group-title="STIRR",Whistle TV
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
-#EXTINF:-1 tvg-id="choppertown.us" tvg-chno="365" tvg-logo="https://i.imgur.com/iXR7fL9.png",Choppertown
+#EXTINF:-1 tvg-id="choppertown.us" tvg-chno="365" tvg-logo="https://i.imgur.com/iXR7fL9.png" group-title="STIRR",Choppertown
  https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
-#EXTINF:-1 tvg-id="mavtv.us" tvg-chno="366" tvg-logo="https://i.imgur.com/7gw46rE.png",MavTv
+#EXTINF:-1 tvg-id="mavtv.us" tvg-chno="366" tvg-logo="https://i.imgur.com/7gw46rE.png" group-title="STIRR",MavTv
 https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
-#EXTINF:-1 tvg-id="outdoor-america.us" tvg-chno="370" tvg-logo="https://i.imgur.com/jZAhPtU.png",Outdoor America
+#EXTINF:-1 tvg-id="outdoor-america.us" tvg-chno="370" tvg-logo="https://i.imgur.com/jZAhPtU.png" group-title="STIRR",Outdoor America
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-#EXTINF:-1 tvg-id="outsidetv.us" tvg-chno="371" tvg-logo="https://i.imgur.com/1wt9NwV.png",Outside TV
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-chno="371" tvg-logo="https://i.imgur.com/1wt9NwV.png" group-title="STIRR",Outside TV
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
-#EXTINF:-1 tvg-id="pursuitup.us" tvg-chno="372" tvg-logo="https://i.imgur.com/WWwGtcQ.png",PursuitUp
+#EXTINF:-1 tvg-id="pursuitup.us" tvg-chno="372" tvg-logo="https://i.imgur.com/WWwGtcQ.png" group-title="STIRR",PursuitUp
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
-#EXTINF:-1 tvg-id="waypoint.us" tvg-chno="373" tvg-logo="https://i.imgur.com/rllu5XN.png",Waypoint
+#EXTINF:-1 tvg-id="waypoint.us" tvg-chno="373" tvg-logo="https://i.imgur.com/rllu5XN.png" group-title="STIRR",Waypoint
 https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
-#EXTINF:-1 tvg-id="edgesport.us" tvg-chno="380" tvg-logo="https://i.imgur.com/eKIhJqV.png",EDGE Sport
+#EXTINF:-1 tvg-id="edgesport.us" tvg-chno="380" tvg-logo="https://i.imgur.com/eKIhJqV.png" group-title="STIRR",EDGE Sport
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
-#EXTINF:-1 tvg-id="venn.us" tvg-chno="394" tvg-logo="https://i.imgur.com/cQvdG76.png",VENN
+#EXTINF:-1 tvg-id="venn.us" tvg-chno="394" tvg-logo="https://i.imgur.com/cQvdG76.png" group-title="STIRR",VENN
 https://dai.google.com/linear/hls/event/gJpQRkqiS8SHzAbPlGNRQw/master.m3u8
-#EXTINF:-1 tvg-id="livexlive.us" tvg-chno="401" tvg-logo="https://i.imgur.com/xMeaPQU.png",LiveXLive
+#EXTINF:-1 tvg-id="livexlive.us" tvg-chno="401" tvg-logo="https://i.imgur.com/xMeaPQU.png" group-title="STIRR",LiveXLive
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 tvg-id="stingray-greatesthits.us" tvg-chno="404" tvg-logo="https://i.imgur.com/mmHNQQE.png",Stingray Greatest Hits
+#EXTINF:-1 tvg-id="stingray-greatesthits.us" tvg-chno="404" tvg-logo="https://i.imgur.com/mmHNQQE.png" group-title="STIRR",Stingray Greatest Hits
 https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8
-#EXTINF:-1 tvg-id="stingray-hitlist.us" tvg-chno="405" tvg-logo="https://i.imgur.com/df9Wiez.png",Stingray Hit List
+#EXTINF:-1 tvg-id="stingray-hitlist.us" tvg-chno="405" tvg-logo="https://i.imgur.com/df9Wiez.png" group-title="STIRR",Stingray Hit List
 https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8
-#EXTINF:-1 tvg-id="stingray-rockalternative.us" tvg-chno="407" tvg-logo="https://i.imgur.com/MbdytZw.png",Stingray Rock Alternative
+#EXTINF:-1 tvg-id="stingray-rockalternative.us" tvg-chno="407" tvg-logo="https://i.imgur.com/MbdytZw.png" group-title="STIRR",Stingray Rock Alternative
 https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
-#EXTINF:-1 tvg-id="stingray-classicrock.us" tvg-chno="406" tvg-logo="https://i.imgur.com/9oUrVL2.png",Stingray Classic Rock
+#EXTINF:-1 tvg-id="stingray-classicrock.us" tvg-chno="406" tvg-logo="https://i.imgur.com/9oUrVL2.png" group-title="STIRR",Stingray Classic Rock
 https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
-#EXTINF:-1 tvg-id="stingray-popadult.us" tvg-chno="408" tvg-logo="https://i.imgur.com/1RlpIzq.png",Stingray Pop Adult
+#EXTINF:-1 tvg-id="stingray-popadult.us" tvg-chno="408" tvg-logo="https://i.imgur.com/1RlpIzq.png" group-title="STIRR",Stingray Pop Adult
 https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
-#EXTINF:-1 tvg-id="stingray-urbanbeats.us" tvg-chno="409" tvg-logo="https://i.imgur.com/C5Jx9Ox.png",Stingray Urban Beats
+#EXTINF:-1 tvg-id="stingray-urbanbeats.us" tvg-chno="409" tvg-logo="https://i.imgur.com/C5Jx9Ox.png" group-title="STIRR",Stingray Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:-1 tvg-id="stingray-flashback70.us" tvg-chno="411" tvg-logo="https://i.imgur.com/5BdEKz5.png",Stingray Flashback 70s
+#EXTINF:-1 tvg-id="stingray-flashback70.us" tvg-chno="411" tvg-logo="https://i.imgur.com/5BdEKz5.png" group-title="STIRR",Stingray Flashback 70s
 https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
-#EXTINF:-1 tvg-id="stingray-hotcountry.us" tvg-chno="410" tvg-logo="https://i.imgur.com/lnnzChj.png",Stingray Hot Country
+#EXTINF:-1 tvg-id="stingray-hotcountry.us" tvg-chno="410" tvg-logo="https://i.imgur.com/lnnzChj.png" group-title="STIRR",Stingray Hot Country
 https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
-#EXTINF:-1 tvg-id="stingray-80s.us" tvg-chno="412" tvg-logo="https://i.imgur.com/1cRTS5d.png",Stingray Everything 80s
+#EXTINF:-1 tvg-id="stingray-80s.us" tvg-chno="412" tvg-logo="https://i.imgur.com/1cRTS5d.png" group-title="STIRR",Stingray Everything 80s
 https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8
-#EXTINF:-1 tvg-id="stingray-latinpop.os" tvg-chno="413" tvg-logo="https://i.imgur.com/lkI4siR.png",Stingray Today's Latin Pop
+#EXTINF:-1 tvg-id="stingray-latinpop.os" tvg-chno="413" tvg-logo="https://i.imgur.com/lkI4siR.png" group-title="STIRR",Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
-#EXTINF:-1 tvg-id="stingray-quello.us" tvg-chno="414" tvg-logo="https://i.imgur.com/9LX4uFt.png",Stingray Qello
+#EXTINF:-1 tvg-id="stingray-quello.us" tvg-chno="414" tvg-logo="https://i.imgur.com/9LX4uFt.png" group-title="STIRR",Stingray Qello
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1 tvg-id="stingray-karaoke.us" tvg-chno="415" tvg-logo="https://i.imgur.com/eywqepB.png",Stingray Karaoke
+#EXTINF:-1 tvg-id="stingray-karaoke.us" tvg-chno="415" tvg-logo="https://i.imgur.com/eywqepB.png" group-title="STIRR",Stingray Karaoke
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-#EXTINF:-1 tvg-id="stingray-classica.us" tvg-chno="416" tvg-logo="https://i.imgur.com/cBIiQ4u.png",Stingray Classica
+#EXTINF:-1 tvg-id="stingray-classica.us" tvg-chno="416" tvg-logo="https://i.imgur.com/cBIiQ4u.png" group-title="STIRR",Stingray Classica
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-#EXTINF:-1 tvg-id="stingray-naturescope.us" tvg-chno="451" tvg-logo="https://i.imgur.com/mawItho.png",Nature Scope
+#EXTINF:-1 tvg-id="stingray-naturescope.us" tvg-chno="451" tvg-logo="https://i.imgur.com/mawItho.png" group-title="STIRR",Nature Scope
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1 tvg-id="soartv.us" tvg-chno="452" tvg-logo="https://i.imgur.com/ANxBkkO.png",SOAR
+#EXTINF:-1 tvg-id="soartv.us" tvg-chno="452" tvg-logo="https://i.imgur.com/ANxBkkO.png" group-title="STIRR",SOAR
 https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
-#EXTINF:-1 tvg-id="stingray-djazz.us" tvg-chno="417" tvg-logo="https://i.imgur.com/8nV00VN.png",Stingray DJAZZ
+#EXTINF:-1 tvg-id="stingray-djazz.us" tvg-chno="417" tvg-logo="https://i.imgur.com/8nV00VN.png" group-title="STIRR",Stingray DJAZZ
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
